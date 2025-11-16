@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "Clique ici chou";
+  const startMessage = "Clique ici bg";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -668,4 +668,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
